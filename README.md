@@ -46,7 +46,7 @@
 
 ## 📚 Education
 
-- 🎓 Bachelor of Engineering in Computer Science – *RNS Institute of Technology* (2022–2025)  
+- 🎓 Bachelor of Engineering in Computer Science – *RNS Institute of Technology* (2023–2025)  
 - 🎓 Diploma in Computer Science – *K S Polytechnic* (2019–2022)  
 
 ---
