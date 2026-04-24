@@ -18,14 +18,14 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/vivek-r-23b716307" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
   <a href="https://github.com/Vivek-Hello" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" /></a>
-  <a href="https://vivek20030407.wixstudio.com/portfolio" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+  <!-- <a href="https://vivek20030407.wixstudio.com/portfolio" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a> -->
 </p>
 
 ---
 
 ## 🛠️ Languages and Tools:
 
-<p align="left">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
